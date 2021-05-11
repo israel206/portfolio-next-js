@@ -40,7 +40,7 @@ export const services: Service[] = [
     Icon: RiComputerLine,
     title: "Whatever",
     about:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis minima autem!",
+      "I'm here to solve any problem in your company!",
   },
 ];
 
@@ -117,112 +117,97 @@ export const tools: Skill[] = [
 
 export const projects: IProject[] = [
   { 
-    name: "bla",
+    name: "DashBoard de Gráficos",
     description:
-      "This app shows a statistical view about corona virus over the world",
+      "Web sites de demostração de análise de dados",
     image_path: "/images/1.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["react"],
-    key_techs: ["React", "Chart.js", "Material UI"],
+    key_techs: ["Angular", "Html", "Css", "JavaScript"],
   },
   {
-    name: "bla",
+    name: "Formulário",
     image_path: "/images/2.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["react"],
     description:
-      "An web app which shows how an algorithm (path finding or sorting) works with cool animation",
-    key_techs: ["React", "firebase", "Framer Motion"],
+      "Formulário de preenchimento de dados",
+    key_techs: ["JavaScript", "Html", "Css"],
   },
 
   {
-    name: "bla",
+    name: "Api de Food de Comida",
     image_path: "/images/3.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "mongo", "react"],
     description:
-      "Social Media app for developers who can share project,create posts,etc...",
-    key_techs: [
-      "React",
-      "Redux",
-      "Node",
-      "Express",
-      "Mongo",
-      "REST API",
-      "Bootstrap",
-    ],
+      "Api desenvolvida para delivery de comida",
+    key_techs: ["Node", "JavaScript", "Html", "Css"],
   },
 
   {
-    name: "bla",
+    name: "Gerenciamento de Estoque",
     image_path: "/images/4.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "react"],
     description:
-      "Basic Realtime Chat App where one can create a room can talk to each other",
-    key_techs: ["React", "Node", "Express", "Socket", "Bootstrap"],
+      "Desenvolvido para gerenciamento de estoque",
+    key_techs: ["Java"],
   },
 
   {
-    name: "bla",
+    name: "PDV de Vendas",
     image_path: "/images/5.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["django", "react"],
     description:
-      "First Django Project :) | Typical Social Media App where one can post,like ,comment etc",
-    key_techs: ["React", "Django", "Django REST API"],
+      "Desenvolvido para Mercadinhos",
+    key_techs: ["Java"],
   },
 
   {
-    name: "bla",
+    name: "Demo de Food",
     image_path: "/images/6.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["express"],
     description:
-      "Tried ML with JS :) | this app classifies a color using CNN algorithm in browser",
-    key_techs: ["Express", "TensorFlow.js", "Vanilla js"],
+      "Demostração de Food",
+    key_techs: ["JavaScript", "Html", "Css"],
   },
   {
-    name: "bla ",
+    name: "Portfólio",
     image_path: "/images/7.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["express"],
     description:
-      'Full(almost) Functional YouTube replica where one can login with his/her youtube account to enjoy "not-YouTube".User can like a video,comment on a video & Much More ',
-    key_techs: [
-      "React",
-      "Redux",
-      "Firebase Auth",
-      "YouTube API",
-      "Sass",
-      "Bootstrap",
-    ],
+      "Portfólio desenvolvido para demostração de projetos do GitHub",
+    key_techs: ["JavaScript", "Html", "Css"],
   },
   {
-    name: "bla",
+    name: "Urna Eletrônica",
     image_path: "/images/8.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["react"],
     description:
-      "o my goal replica where an user can keep an eye on his favorite club.This app will keep providing \n all the statistics of that club.all the fans can also chat ",
-    key_techs: ["React", "Redux", "Firebase Auth", "API", "Sass", "Bootstrap"],
+      "Demostração de uma Urna eletrônica",
+    key_techs: ["JavaScript", "Html", "Css"],
   },
   {
-    name: "bla",
+    name: "Apresentação de SlideShow",
     image_path: "/images/9.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["react"],
     description:
-      "o my goal replica where an user can keep an eye on his favorite club.This app will keep providing \n all the statistics of that club.all the fans can also chat ",
-    key_techs: ["React", "Redux", "Firebase Auth", "API", "Sass", "Bootstrap"],
+      "Apresentação de Imagem",
+    key_techs: ["JavaScript", "Html", "Css"],
   },
 ];
