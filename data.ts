@@ -48,7 +48,17 @@ export const languages: Skill[] = [
   {
     Icon: BsCircleFill,
     name: "Python",
+    level: "80",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "TypeScript",
     level: "45",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Java",
+    level: "80",
   },
   {
     Icon: BsCircleFill,
@@ -62,18 +72,23 @@ export const languages: Skill[] = [
   },
   {
     Icon: BsCircleFill,
-    name: "React",
+    name: "React Js",
     level: "70",
   },
   {
     Icon: BsCircleFill,
-    name: "Django",
+    name: "Elixir",
     level: "80",
   },
   {
     Icon: BsCircleFill,
+    name: "Spring Boot",
+    level: "60",
+  },
+  {
+    Icon: BsCircleFill,
     name: "Bootstrap",
-    level: "80",
+    level: "70",
   },
 ];
 
@@ -90,7 +105,7 @@ export const tools: Skill[] = [
   },
   {
     Icon: BsCircleFill,
-    name: "Illustrator",
+    name: "Design",
     level: "60",
   },
   {
@@ -193,6 +208,16 @@ export const projects: IProject[] = [
   {
     name: "bla",
     image_path: "/images/8.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["react"],
+    description:
+      "o my goal replica where an user can keep an eye on his favorite club.This app will keep providing \n all the statistics of that club.all the fans can also chat ",
+    key_techs: ["React", "Redux", "Firebase Auth", "API", "Sass", "Bootstrap"],
+  },
+  {
+    name: "bla",
+    image_path: "/images/9.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["react"],

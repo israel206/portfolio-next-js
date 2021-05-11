@@ -1,4 +1,4 @@
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillYoutube } from "react-icons/ai";
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin, } from "react-icons/ai";
 import { GiTie } from "react-icons/gi";
 import { GoLocation } from "react-icons/go";
 import { useTheme } from "next-themes";
@@ -14,7 +14,7 @@ const Sidebar = () => {
   return (
     <>
       <Image
-        src="/public/images/personal.jpg"
+        src="/images/personal.jpg"
         alt="avatar"
         className="mx-auto border rounded-full "
         height="128px"
