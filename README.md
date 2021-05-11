@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Tubers" src=".github/.png" width="90%">
+  <img alt="Projeto Tubers" src=".github/portfolio-nexts.png" width="90%">
 </p>
 
 
@@ -36,6 +36,8 @@ This project was developed using the following technologies:
   - [Css](https://www.w3schools.com/css/default.asp)
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
+
+---
 
 ## 👨‍💻 Computer: How to run
 
@@ -52,8 +54,6 @@ Clone the project and access the folder
     cd project-name
 ```
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
 
 First, run the development server:
 
