@@ -44,7 +44,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
   ```bash
     # clone repository
-    $ git clone git clone https://github.com/israel206/portfolio-next-js.git
+    $ git clone https://github.com/israel206/portfolio-next-js.git
   ```
 ---
 
@@ -61,6 +61,8 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+# or
+docker-compose up
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
