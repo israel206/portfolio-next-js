@@ -123,7 +123,7 @@ export const projects: IProject[] = [
     image_path: "/images/1.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["react"],
+    category: [ "angular","node", "javaScript"],
     key_techs: ["Angular", "Html", "Css", "JavaScript"],
   },
   {
@@ -142,7 +142,7 @@ export const projects: IProject[] = [
     image_path: "/images/3.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["node", "mongo", "react"],
+    category: ["node", "javaScript"],
     description:
       "Api desenvolvida para delivery de comida",
     key_techs: ["Node", "JavaScript", "Html", "Css"],
@@ -156,7 +156,7 @@ export const projects: IProject[] = [
     category: ["java"],
     description:
       "Desenvolvido para gerenciamento de estoque",
-    key_techs: ["Java"],
+    key_techs: ["Java", "Postgres"],
   },
 
   {

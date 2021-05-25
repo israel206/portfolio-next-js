@@ -22,11 +22,26 @@ const ProjectsNavbar: FunctionComponent<{
 }> = (props) => {
   return (
     <div className="flex px-3 py-2 space-x-3 overflow-x-auto list-none">
+
       <NavItem value="all" {...props} />
+
       <NavItem value="react" {...props} />
-      <NavItem value="mongo" {...props} />
-      <NavItem value="django" {...props} />
+
+      <NavItem value="react-native" {...props} />
+
+      <NavItem value="flutter" {...props} />
+
+      <NavItem value="angular" {...props} />
+
+      <NavItem value="javaScript" {...props} />
+
       <NavItem value="node" {...props} />
+
+      <NavItem value="elixir" {...props} />
+      
+      <NavItem value="java" {...props} />
+
+
     </div>
   );
 };
