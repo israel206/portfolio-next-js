@@ -131,7 +131,7 @@ export const projects: IProject[] = [
     image_path: "/images/2.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["react"],
+    category: ["node", "javaScript"],
     description:
       "Formulário de preenchimento de dados",
     key_techs: ["JavaScript", "Html", "Css"],
@@ -153,7 +153,7 @@ export const projects: IProject[] = [
     image_path: "/images/4.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["node", "react"],
+    category: ["java"],
     description:
       "Desenvolvido para gerenciamento de estoque",
     key_techs: ["Java"],
@@ -164,7 +164,7 @@ export const projects: IProject[] = [
     image_path: "/images/5.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["django", "react"],
+    category: ["java"],
     description:
       "Desenvolvido para Mercadinhos",
     key_techs: ["Java"],
@@ -175,7 +175,7 @@ export const projects: IProject[] = [
     image_path: "/images/6.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["express"],
+    category: ["node","javaScript"],
     description:
       "Demostração de Food",
     key_techs: ["JavaScript", "Html", "Css"],
@@ -185,7 +185,7 @@ export const projects: IProject[] = [
     image_path: "/images/7.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["express"],
+    category: ["node", "javaScript"],
     description:
       "Portfólio desenvolvido para demostração de projetos do GitHub",
     key_techs: ["JavaScript", "Html", "Css"],
@@ -195,7 +195,7 @@ export const projects: IProject[] = [
     image_path: "/images/8.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["react"],
+    category: ["node","javaScript"],
     description:
       "Demostração de uma Urna eletrônica",
     key_techs: ["JavaScript", "Html", "Css"],
@@ -205,7 +205,7 @@ export const projects: IProject[] = [
     image_path: "/images/9.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["react"],
+    category: ["node", "javaScript"],
     description:
       "Apresentação de Imagem",
     key_techs: ["JavaScript", "Html", "Css"],
