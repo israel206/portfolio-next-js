@@ -120,7 +120,7 @@ export const projects: IProject[] = [
     name: "DashBoard de Gráficos",
     description:
       "Web sites de demostração de análise de dados",
-    image_path: "/images/1.png",
+    image_path: "/images/DashBoard.png",
     deployed_url: "!#",
     github_url: "!#",
     category: [ "angular","node", "javaScript"],
@@ -128,7 +128,7 @@ export const projects: IProject[] = [
   },
   {
     name: "Formulário",
-    image_path: "/images/2.png",
+    image_path: "/images/Formulario.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
@@ -139,7 +139,7 @@ export const projects: IProject[] = [
 
   {
     name: "Api de Food de Comida",
-    image_path: "/images/3.png",
+    image_path: "/images/ifood.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
@@ -150,7 +150,7 @@ export const projects: IProject[] = [
 
   {
     name: "Gerenciamento de Estoque",
-    image_path: "/images/4.png",
+    image_path: "/images/Estoque.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["java"],
@@ -161,7 +161,7 @@ export const projects: IProject[] = [
 
   {
     name: "PDV de Vendas",
-    image_path: "/images/5.png",
+    image_path: "/images/Merc_PDV.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["java"],
@@ -172,7 +172,7 @@ export const projects: IProject[] = [
 
   {
     name: "Demo de Food",
-    image_path: "/images/6.png",
+    image_path: "/images/food.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node","javaScript"],
@@ -182,7 +182,7 @@ export const projects: IProject[] = [
   },
   {
     name: "Portfólio",
-    image_path: "/images/7.png",
+    image_path: "/images/portfolio.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
@@ -192,7 +192,7 @@ export const projects: IProject[] = [
   },
   {
     name: "Urna Eletrônica",
-    image_path: "/images/8.png",
+    image_path: "/images/urna.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node","javaScript"],
@@ -202,7 +202,7 @@ export const projects: IProject[] = [
   },
   {
     name: "Apresentação de SlideShow",
-    image_path: "/images/9.png",
+    image_path: "/images/Slideshow.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
@@ -210,4 +210,74 @@ export const projects: IProject[] = [
       "Apresentação de Imagem",
     key_techs: ["JavaScript", "Html", "Css"],
   },
+  {
+    name: "Glass",
+    image_path: "/images/Glass.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript"],
+    description:
+      "Site completo de apresentação",
+    key_techs: ["JavaScript", "Html", "Css"],
+  },
+  {
+    name: "site de Freelances",
+    image_path: "/images/Jobs.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript"],
+    description:
+      " Jobs. Calculando o tempo de construção de sites ou aplicações",
+    key_techs: ["JavaScript", "Html", "Css"],
+  },
+  {
+    name: "Portfolio-Nexts",
+    image_path: "/images/portfolio-nexts.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript", "react"],
+    description:
+      "Desenvolvendo uma aplicação de portfolio utilizando a biblioteca react com o nexts",
+    key_techs: ["node", "JavaScript", "Html", "Css"],
+  },
+  {
+    name: "Jogo",
+    image_path: "/images/mover-it.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript", "react"],
+    description:
+      "Jogo de desperta",
+    key_techs: ["node" ,"JavaScript", "Html", "Css"],
+  },
+  {
+    name: "EcVaccina",
+    image_path: "/images/EcVaccina.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript", "react"],
+    description:
+      "Aplicação desenvolvida para vacinação da covid-19",
+    key_techs: ["node", "JavaScript", "Html", "Css"],
+  },
+  // {
+  //   name: "EcVaccina-Cadastro",
+  //   image_path: "/images/cadastro.png",
+  //   deployed_url: "!#",
+  //   github_url: "!#",
+  //   category: ["node", "javaScript", "react", "react-native"],
+  //   description:
+  //     "Aplicação desenvolvida para vacinação da covid-19, cadastro da aplicação APP",
+  //   key_techs: ["node", "JavaScript", "Html", "Css"],
+  // },
+  // {
+  //   name: "Gerador de Senha",
+  //   image_path: "/images/senha.png",
+  //   deployed_url: "!#",
+  //   github_url: "!#",
+  //   category: ["node", "javaScript", "react"],
+  //   description:
+  //     "Um gerador de senha crypto",
+  //   key_techs: ["node", "JavaScript", "Html", "Css"],
+  // },
 ];
