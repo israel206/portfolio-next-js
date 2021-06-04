@@ -13,7 +13,7 @@
 
   [![Author](https://img.shields.io/badge/author-IsraelSilva-8257E5?style=flat-square)](https://github.com/israel206)
   [![Languages](https://img.shields.io/github/languages/count/israel206/portfolio-next-js?color=%238257E5&style=flat-square)](#)
-  <img src="https://img.shields.io/github/forks/israel206/portfolio-next-js?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">    
+  <img src="https://img.shields.io/github/forks/israel206/portfolio-next-js?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
   <img src="https://img.shields.io/github/stars/israel206/portfolio-next-js?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -22,9 +22,8 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Tubers" src=".github/portfolio-nexts.png" width="90%">
+  <img alt="Projeto Tubers" src=".github/PortfolioReactJs.gif" width="80%">
 </p>
-
 
 ---
 
@@ -32,27 +31,31 @@
 
 This project was developed using the following technologies:
 
-  - [Html](https://www.w3schools.com/html/)
-  - [Css](https://www.w3schools.com/css/default.asp)
-  - [JavaScript](https://www.w3schools.com/js/default.asp)
-  - [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Html](https://www.w3schools.com/html/)
+- [Css](https://www.w3schools.com/css/default.asp)
+- [JavaScript](https://www.w3schools.com/js/default.asp)
+- [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
 ---
 
 ## 👨‍💻 Computer: How to run
 
 Clone the project and access the folder
+
   ```bash
     # clone repository
     $ git clone https://github.com/israel206/portfolio-next-js.git
   ```
+
 ---
 
 ## 🚀 Getting started
+
 ```bash
     # enter web folder
     cd project-name
 ```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
@@ -102,7 +105,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-Feito com ♥ by Israel Silva
+Made with 💜 [by Israel Silva](https://israel206.github.io/) 👋
 
 [ts]: https://www.typescriptlang.org
 [vscode]: https://code.visualstudio.com/
