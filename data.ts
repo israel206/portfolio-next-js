@@ -118,8 +118,7 @@ export const tools: Skill[] = [
 export const projects: IProject[] = [
   { 
     name: "DashBoard de Gráficos",
-    description:
-      "Web sites de demostração de análise de dados",
+    description: "Web sites de demostração de análise de dados",
     image_path: "/images/DashBoard.png",
     deployed_url: "!#",
     github_url: "!#",
@@ -132,8 +131,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
-    description:
-      "Formulário de preenchimento de dados",
+    description: "Formulário de preenchimento de dados",
     key_techs: ["JavaScript", "Html", "Css"],
   },
 
@@ -143,8 +141,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
-    description:
-      "Api desenvolvida para delivery de comida",
+    description: "Api desenvolvida para delivery de comida",
     key_techs: ["Node", "JavaScript", "Html", "Css"],
   },
 
@@ -154,8 +151,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["java"],
-    description:
-      "Desenvolvido para gerenciamento de estoque",
+    description: "Desenvolvido para gerenciamento de estoque",
     key_techs: ["Java", "Postgres"],
   },
 
@@ -165,19 +161,16 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["java"],
-    description:
-      "Desenvolvido para Mercadinhos",
+    description: "Desenvolvido para Mercadinhos",
     key_techs: ["Java"],
   },
-
   {
     name: "Demo de Food",
     image_path: "/images/food.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node","javaScript"],
-    description:
-      "Demostração de Food",
+    description: "Demostração de Food",
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
@@ -186,8 +179,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
-    description:
-      "Portfólio desenvolvido para demostração de projetos do GitHub",
+    description: "Portfólio desenvolvido para demostração de projetos do GitHub",
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
@@ -196,8 +188,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node","javaScript"],
-    description:
-      "Demostração de uma Urna eletrônica",
+    description: "Demostração de uma Urna eletrônica",
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
@@ -206,8 +197,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
-    description:
-      "Apresentação de Imagem",
+    description: "Apresentação de Imagem",
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
@@ -216,8 +206,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
-    description:
-      "Site completo de apresentação",
+    description: "Site completo de apresentação",
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
@@ -226,18 +215,16 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript"],
-    description:
-      " Jobs. Calculando o tempo de construção de sites ou aplicações",
+    description: " Jobs. Calculando o tempo de construção de sites ou aplicações",
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
-    name: "Portfolio-Nexts",
+    name: "Portfolio-Next",
     image_path: "/images/portfolio-nexts.png",
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript", "react"],
-    description:
-      "Desenvolvendo uma aplicação de portfolio utilizando a biblioteca react com o nexts",
+    description: "Desenvolvendo uma aplicação de portfolio utilizando a biblioteca react com o next.js",
     key_techs: ["node", "JavaScript", "Html", "Css"],
   },
   {
@@ -246,8 +233,7 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript", "react"],
-    description:
-      "Jogo de desperta",
+    description: "Jogo de desperta",
     key_techs: ["node" ,"JavaScript", "Html", "Css"],
   },
   {
@@ -256,28 +242,52 @@ export const projects: IProject[] = [
     deployed_url: "!#",
     github_url: "!#",
     category: ["node", "javaScript", "react"],
-    description:
-      "Aplicação desenvolvida para vacinação da covid-19",
+    description: "Aplicação desenvolvida para vacinação da Covid-19",
+    key_techs: ["Node", "JavaScript", "Html", "Css"],
+  },
+  {
+    name: "Clone do Youtuber",
+    image_path: "/images/CloneYoutubers.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript", "react"],
+    description: "Um template front-end do Youtuber",
+    key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
+  },
+  {
+    name: "Clone da Netflix",
+    image_path: "/images/CloneNetflix.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript", "react"],
+    description: "Um template front-end da aplicação",
+    key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
+  },
+  {
+    name: "Covid-19",
+    image_path: "/images/Covid19.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript", "react"],
+    description: "Um template front end de uma página de informação da covid-19",
+    key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
+  },
+  {
+    name: "Aplicação Financeira V2",
+    image_path: "/images/devfinancev2.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript"],
+    description: "Aplicação de custo financeiros",
     key_techs: ["node", "JavaScript", "Html", "Css"],
   },
-  // {
-  //   name: "EcVaccina-Cadastro",
-  //   image_path: "/images/cadastro.png",
-  //   deployed_url: "!#",
-  //   github_url: "!#",
-  //   category: ["node", "javaScript", "react", "react-native"],
-  //   description:
-  //     "Aplicação desenvolvida para vacinação da covid-19, cadastro da aplicação APP",
-  //   key_techs: ["node", "JavaScript", "Html", "Css"],
-  // },
-  // {
-  //   name: "Gerador de Senha",
-  //   image_path: "/images/senha.png",
-  //   deployed_url: "!#",
-  //   github_url: "!#",
-  //   category: ["node", "javaScript", "react"],
-  //   description:
-  //     "Um gerador de senha crypto",
-  //   key_techs: ["node", "JavaScript", "Html", "Css"],
-  // },
+  {
+    name: "Ranks do Mundo",
+    image_path: "/images/MundoRank.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["node", "javaScript", "react"],
+    description: "Rank da quantidade de população por países",
+    key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
+  },
 ];
