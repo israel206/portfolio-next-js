@@ -7,24 +7,36 @@ const Resume = () => {
       {/* //! Education & Experience */}
       <div className="grid gap-6 md:grid-cols-2">
         <div>
-          <h5 className="my-3 text-2xl font-bold">Education</h5>
+          <h5 className="my-3 text-2xl font-bold">
+            Educação
+          </h5>
           <div className="">
             <h5 className="my-2 text-xl font-bold">
-              system analyst
+              Analista de Sistemas
             </h5>
-            <p className="font-semibold">Federal University of Paraiba (2015-2021)</p>
+            <p className="font-semibold">
+              Universidade Federal da Paraíba (2015-2021)
+            </p>
             <p className="my-3">
-              I am currently pursuing B.tech in Information system
-              from Federal University of Paraiba 
+              Atualmente estou estudante de sistema de informação
+              na Universidade Federal da Paraíba. 
             </p>
           </div>
         </div>
         <div>
-          <h5 className="my-3 text-2xl font-bold">Experience</h5>
+          <h5 className="my-3 text-2xl font-bold">
+            Experiência
+          </h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">Software Developer</h5>
-            <p className="font-semibold">Israel Consultancy Services</p>
-            <p className="my-3">freelance work</p>
+            <h5 className="my-2 text-xl font-bold">
+              Desenvolvedor de software
+            </h5>
+            <p className="font-semibold">
+              Serviços de consultoria
+            </p>
+            <p className="my-3">
+              Trabalho de freelance
+            </p>
           </div>
         </div>
       </div>

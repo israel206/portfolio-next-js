@@ -97,6 +97,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 App to always remember to water your plants 🌱
 
+This is a project developed during the **[PLAYLIST]([LINK](https://www.youtube.com/watch?v=Nhb67Eb98tU&list=PLQKg8mIgoxKpvIWyxMM-Nn6s_iww0KX53))**, presented by **[Backbench Coder]([LINK](https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A))** during jan 30, 2021.
+
 ---
 
 ## 📝 License
@@ -105,7 +107,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-Made with 💜 [by Israel Silva](https://israel206.github.io/) 👋
+Made with 💜 [by Israel Silva](https://israel206.github.io/) 👋 com direitos de aprendizagem de Sumit Dey
 
 [ts]: https://www.typescriptlang.org
 [vscode]: https://code.visualstudio.com/
