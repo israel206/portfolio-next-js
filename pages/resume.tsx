@@ -4,10 +4,18 @@ import { languages, tools } from "../data";
 import { motion } from "framer-motion";
 import { fadeInUp, routerAnimation } from "../animations";
 
+import Head from "next/head";
+
 const Resume = () => {
 
   return (
     <motion.div className="px-6 py-2" variants={routerAnimation} initial="initial" animate="animate" exit="exit">
+     
+      <Head>
+        <title>Desenvolvedor web | Resume | Israel Silva</title>
+      </Head>
+     
+     
       {/* //! Educação & Experiência */}
       <div className="grid gap-6 md:grid-cols-2">
         <motion.div variants={fadeInUp} initial="initial" animate="animate">

@@ -9,7 +9,8 @@ import {
 import ServiceCard from "../components/ServiceCard";
 import { stagger,fadeInUp, routerAnimation } from "../animations";
 import { services } from "../data";
-import { Service } from "../types";
+
+import Head from "next/head";
 
 const About = ({endpoint}) => {
   // console.log(services);
@@ -22,6 +23,11 @@ const About = ({endpoint}) => {
       animate="animate"
       exit="exit"
     >
+
+      <Head>
+        <title>Desenvolvedor web | portfolio | Israel Silva</title>
+      </Head>
+
       <h6 className="my-3 text-base font-medium">
         Oi! Meu nome é Israel Pereira da Silva. Sou desenvolvedor FullStack e sou muito apaixonado e dedicado
         ao meu trabalho. Com 5 anos de experiência com projeto acadêmicos na academia como desenvolvedor FullStack, 
