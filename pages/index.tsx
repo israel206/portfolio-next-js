@@ -11,8 +11,9 @@ import { stagger,fadeInUp, routerAnimation } from "../animations";
 import { services } from "../data";
 import { Service } from "../types";
 
-const About: NextPage = () => {
+const About = ({endpoint}) => {
   // console.log(services);
+  console.log(endpoint);
 
   return (
     <motion.div className="flex flex-col flex-grow px-6 pt-1 "
@@ -51,5 +52,17 @@ const About: NextPage = () => {
     </motion.div>
   );
 };
+
+export const getServerSideProps: GetServerSideProps = async(
+  context: GetServerSidePropsContext
+) => {
+
+  // console.log(process.env.VERCEL_URL);
+
+  // const res = await fetch(`${process.env.VERCEL_URL}/api/services`);
+  // const data = await res.json();
+  // console.log(data);
+  return { props: { endpoint: process.env.VERCEL_URL } }
+}
 
 export default About;
