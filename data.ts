@@ -116,7 +116,8 @@ export const tools: Skill[] = [
 ];
 
 export const projects: IProject[] = [
-  { 
+  {
+    id: 1,
     name: "DashBoard de Gráficos",
     description: "Web sites de demostração de análise de dados",
     image_path: "/images/DashBoard.png",
@@ -126,6 +127,7 @@ export const projects: IProject[] = [
     key_techs: ["Angular", "Html", "Css", "JavaScript"],
   },
   {
+    id: 2,
     name: "Formulário",
     image_path: "/images/Formulario.png",
     deployed_url: "!#",
@@ -136,6 +138,7 @@ export const projects: IProject[] = [
   },
 
   {
+    id: 3,
     name: "Api de Food de Comida",
     image_path: "/images/ifood.png",
     deployed_url: "!#",
@@ -146,6 +149,7 @@ export const projects: IProject[] = [
   },
 
   {
+    id: 4,
     name: "Gerenciamento de Estoque",
     image_path: "/images/Estoque.png",
     deployed_url: "!#",
@@ -156,6 +160,7 @@ export const projects: IProject[] = [
   },
 
   {
+    id: 5,
     name: "PDV de Vendas",
     image_path: "/images/Merc_PDV.png",
     deployed_url: "!#",
@@ -165,6 +170,7 @@ export const projects: IProject[] = [
     key_techs: ["Java"],
   },
   {
+    id: 6,
     name: "Demo de Food",
     image_path: "/images/food.png",
     deployed_url: "!#",
@@ -174,6 +180,7 @@ export const projects: IProject[] = [
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
+    id: 7,
     name: "Portfólio",
     image_path: "/images/portfolio.png",
     deployed_url: "!#",
@@ -183,6 +190,7 @@ export const projects: IProject[] = [
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
+    id: 8,
     name: "Urna Eletrônica",
     image_path: "/images/urna.png",
     deployed_url: "!#",
@@ -192,6 +200,7 @@ export const projects: IProject[] = [
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
+    id: 9,
     name: "Apresentação de SlideShow",
     image_path: "/images/Slideshow.png",
     deployed_url: "!#",
@@ -201,6 +210,7 @@ export const projects: IProject[] = [
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
+    id: 10,
     name: "Glass",
     image_path: "/images/Glass.png",
     deployed_url: "!#",
@@ -210,6 +220,7 @@ export const projects: IProject[] = [
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
+    id: 11,
     name: "site de Freelances",
     image_path: "/images/Jobs.png",
     deployed_url: "!#",
@@ -219,6 +230,7 @@ export const projects: IProject[] = [
     key_techs: ["JavaScript", "Html", "Css"],
   },
   {
+    id: 12,
     name: "Portfolio-Next",
     image_path: "/images/portfolio-nexts.png",
     deployed_url: "!#",
@@ -228,6 +240,7 @@ export const projects: IProject[] = [
     key_techs: ["node", "JavaScript", "Html", "Css"],
   },
   {
+    id: 13,
     name: "Jogo",
     image_path: "/images/mover-it.png",
     deployed_url: "!#",
@@ -237,6 +250,7 @@ export const projects: IProject[] = [
     key_techs: ["node" ,"JavaScript", "Html", "Css"],
   },
   {
+    id: 14,
     name: "EcVaccina",
     image_path: "/images/EcVaccina.png",
     deployed_url: "!#",
@@ -246,6 +260,7 @@ export const projects: IProject[] = [
     key_techs: ["Node", "JavaScript", "Html", "Css"],
   },
   {
+    id: 15,
     name: "Clone do Youtuber",
     image_path: "/images/CloneYoutubers.png",
     deployed_url: "!#",
@@ -255,6 +270,7 @@ export const projects: IProject[] = [
     key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
   },
   {
+    id: 16,
     name: "Clone da Netflix",
     image_path: "/images/CloneNetflix.png",
     deployed_url: "!#",
@@ -264,6 +280,7 @@ export const projects: IProject[] = [
     key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
   },
   {
+    id: 17,
     name: "Covid-19",
     image_path: "/images/Covid19.png",
     deployed_url: "!#",
@@ -273,6 +290,7 @@ export const projects: IProject[] = [
     key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
   },
   {
+    id: 18,
     name: "Aplicação Financeira V2",
     image_path: "/images/devfinancev2.png",
     deployed_url: "!#",
@@ -282,6 +300,7 @@ export const projects: IProject[] = [
     key_techs: ["node", "JavaScript", "Html", "Css"],
   },
   {
+    id: 19,
     name: "Ranks do Mundo",
     image_path: "/images/MundoRank.png",
     deployed_url: "!#",
