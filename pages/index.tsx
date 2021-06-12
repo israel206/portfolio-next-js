@@ -16,9 +16,9 @@ const About: NextPage = () => {
     <div className="flex flex-col flex-grow px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
         Oi! Meu nome é Israel Pereira da Silva. Sou desenvolvedor FullStack e sou muito apaixonado e dedicado
-          ao meu trabalho. Com 5 anos de experiência com projeto acadêmicos na academia como desenvolvedor FullStack, 
-          adquiri as habilidades e conhecimentos necessários para tornar seu projeto um sucesso. 
-          Gosto de todas as etapas do processo de desenvolvimento, Planejamento, design, codificação, teste e execução adiante...
+        ao meu trabalho. Com 5 anos de experiência com projeto acadêmicos na academia como desenvolvedor FullStack, 
+        adquiri as habilidades e conhecimentos necessários para tornar seu projeto um sucesso. 
+        Gosto de todas as etapas do processo de desenvolvimento, Planejamento, design, codificação, teste e execução adiante...
       </h6>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "
