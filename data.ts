@@ -23,7 +23,7 @@ export const services: Service[] = [
     Icon: AiOutlineApi,
     title: "API Development",
     about:
-      "Posso desenvolver uma API REST robusta usando <b> SpringBoob </b>, <b> Node, <b> Elixir </b> e <b> GO.",
+      "Posso desenvolver uma API REST robusta usando <b> SpringBoot </b>, <b> Node, <b> Elixir </b> e <b> GO.",
   },
   {
     Icon: MdDeveloperMode,
@@ -303,5 +303,25 @@ export const projects: IProject[] = [
     category: ["node", "javaScript", "react"],
     description: "Rank da quantidade de população por países",
     key_techs: ["node", "JavaScript", "Html", "Css", "React.Js"],
+  },
+  {
+    id: 20,
+    name: "Gerador de senhas",
+    image_path: "/images/GeradorSenha.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["react-native"],
+    description: "É um gerador de senhas criptografadas",
+    key_techs: ["React-Native"],
+  },
+  {
+    id: 21,
+    name: "Gerenciador de plantas",
+    image_path: "/images/PlantManager.png",
+    deployed_url: "!#",
+    github_url: "!#",
+    category: ["react-native"],
+    description: "Gerenciador de colocar águas nas plantas",
+    key_techs: ["React-Native"],
   },
 ];
