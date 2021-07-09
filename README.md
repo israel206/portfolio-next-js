@@ -95,8 +95,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 This is a project developed during the **[PLAYLIST](https://www.youtube.com/watch?v=Nhb67Eb98tU&list=PLQKg8mIgoxKpvIWyxMM-Nn6s_iww0KX53)**, presented canal by **[Backbench Coder](https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A)** during jan 30, 2021.
 
 ---
