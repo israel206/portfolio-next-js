@@ -68,17 +68,27 @@ export const languages: Skill[] = [
   {
     Icon: BsCircleFill,
     name: "React Native",
+    level: "85",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Flutter",
     level: "80",
   },
   {
     Icon: BsCircleFill,
     name: "React Js",
-    level: "70",
+    level: "90",
   },
   {
     Icon: BsCircleFill,
     name: "Elixir",
-    level: "80",
+    level: "75",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Golang",
+    level: "60",
   },
   {
     Icon: BsCircleFill,
@@ -107,6 +117,36 @@ export const tools: Skill[] = [
     Icon: BsCircleFill,
     name: "Framer",
     level: "45",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Docker",
+    level: "50",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Kubernetes",
+    level: "50",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "PostgresSQL",
+    level: "68",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Mysql",
+    level: "65",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "MongoDB",
+    level: "57",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Cassandra",
+    level: "55",
   },
 ];
 
@@ -330,7 +370,7 @@ export const projects: IProject[] = [
     image_path: "/images/Casa-Criativa.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["javaScript"],
+    category: ["javaScript","node"],
     description: "Um site de ideias, onde colocaremos pensamentos, ideias, atividades e etc.. ",
     key_techs: ["Html", "JavaScript", "Css"]
   },
@@ -340,7 +380,7 @@ export const projects: IProject[] = [
     image_path: "/images/ecoleta.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["javaScript"],
+    category: ["javaScript","node"],
     description: "Gerenciador de coleta para reciclagem",
     key_techs: ["JavaScript", "Html", "Css"],
   },
@@ -350,7 +390,7 @@ export const projects: IProject[] = [
     image_path: "/images/Happy.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["javaScript"],
+    category: ["javaScript","node"],
     description: "Gerenciador de doações, orfanatos ",
     key_techs: ["JavaScript", "Html", "Css"],
   },
@@ -360,7 +400,7 @@ export const projects: IProject[] = [
     image_path: "/images/Proffy.png",
     deployed_url: "!#",
     github_url: "!#",
-    category: ["javaScript"],
+    category: ["javaScript","node"],
     description: "Plataforma de estudos online",
     key_techs: ["JavaScript", "Html", "Css"],
   },
